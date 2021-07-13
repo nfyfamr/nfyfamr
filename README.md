@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Python]](https://www.python.org/)
+[python]: https://img.shields.io/static/v1?style=flat-square&labelColor=eeeeee&color=3776ab&logoColor=3776ab&label=&message=Python&logo=python&#3776AB
 <!--
 **nfyfamr/nfyfamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
